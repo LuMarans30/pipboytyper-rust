@@ -32,6 +32,8 @@ impl PipBoy {
         &self,
         terminal_writer: &mut crate::helper::TerminalWriter,
     ) -> Result<(), crate::helper::HelperError> {
+        sleep(Duration::from_millis(500));
+
         let (header, spaces_str) =
             terminal_writer.display_center("*************** PIP-OS(R) V7.1.0.8 ***************")?;
 
