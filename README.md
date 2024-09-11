@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LuMarans30/pipboytyper-rust/master/pipboybootanim.png" alt="Boot animation at completion" />
+https://github.com/user-attachments/assets/07200bfa-87f8-4372-acbe-0bb8c994cb85
 
 **Pip-Boy Boot Animation**
 
