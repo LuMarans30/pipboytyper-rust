@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/07200bfa-87f8-4372-acbe-0bb8c994cb85
+https://github.com/user-attachments/assets/504c1e28-ad5e-4432-8ae4-892981afb10d
 
 **Pip-Boy Boot Animation**
 
